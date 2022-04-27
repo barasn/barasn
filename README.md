@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/baye-bara-laye-gaye/" target="_blank"><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
 
-<a href="mailto:bara_modeste@yahoo.com"><img align="left" width="42px" src="https://logodownload.org/wp-content/uploads/2019/09/yahoo-logo.png" /></a>
+<a href="mailto:bara_modeste@yahoo.com"><img align="left" width="42px" src="https://logodownload.org/wp-content/uploads/2019/09/yahoo-logo.png" /></a> <br />
 
 
 
