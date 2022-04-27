@@ -22,22 +22,26 @@
 <a href="mailto:charles.cuggia@dsti.institute"><img align="left" width="100px" src="https://dka01xuembdnx.cloudfront.net/wp-content/uploads/2021/01/LOGO_DSTI_VIOLET.png" /></a> <br /> <br />
 
 ### Langages de Programmation et Outils:
-<img align="left" width="100px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<p>
+<img align="left" width="110px" src="https://blog.savoirfairelinux.com/fr-ca/wp-content/uploads/2017/11/Python-Logo-PNG-Image.png" />
 <img align="left" width="100px" src="https://docs.microsoft.com/fr-fr/windows/images/c-logo.png" />
 <img align="left" width="100px" src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" />
 <img align="left" width="100px" src="https://kangoute.be/wp-content/uploads/2021/04/css-html2-e1517475681211.png" />
 <img align="left" width="100px" src="https://external-preview.redd.it/kvY4inBELzFzJu4BTDtrAJwXrAM-nfKvdmlN0Mm7Y44.png?auto=webp&s=fff58d32102c2478aaa5924e7f90fead6d40904d" />
-<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> <br />
+<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+</p>
 
 
 
 
 
+<p>
 <img align="left" width="100px" src="https://png.pngitem.com/pimgs/s/465-4651848_numpy-python-logo-hd-png-download.png" />
 <img align="left" width="100px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
 <img align="left" width="100px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />
 <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" width="100px" src="https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/@@images/image.png" />
 <img align="left" width="100px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_656e174b12c49be1cfb4723a938ea43e/pytorch.png" />
+</p>
 
 
