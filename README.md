@@ -1,4 +1,4 @@
-### Bienvenue ```${tonNomEstIci.promis}```, je suis Baye Bara Laye Gaye
+### Bienvenue, je suis Baye Bara Laye Gaye
 
 ### Je suis Mathématicien et Cryptologue avec une expérience pratique dans le domaine de la cryptographie, la cybersécurité, le la Blockchain.
 ### De plus, avec ma passion pour les Mathématiques et mes intérêts pour les données et l'intelligence artificielle, j'ai acquis des compétences en statistiques et Machine Learning grâce à l'auto-formation et à la pratique. En ce moment, je recherche une poste d'alternance en Data Science/Data Engineer dans le cadre de mes études à Data ScienceTech Institute(DSTI). Je suis disponible immédiatement et mobile partout en France et j'espère qu'avec mes expériences acquises et ceux en cours d'acquisition, je pourrai rejoindre votre équipe qui partage la même passion pour les données et les Mathématiques.
